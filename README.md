@@ -37,5 +37,23 @@
 
 ---
 
-Anti-sanction measures service for the food industry
-The service was created so that you, being engaged and working in all sectors related to the food industry, can not worry about sanctions
+What do we offer?
+What can we oppose the sanctions?
+
+CERTIFICATE
+Printing a product quality data CERTIFICATE exactly in accordance with international and local requirements
+
+COMMODITY
+Simplify the process of entering COMMODITY items by simply uploading an excel file
+
+RESPONSIBILITY
+Automate the timely notification of necessary food actions to all RESPONSIBLE parties
+
+WRITING-OFF
+Simplify the process of WRITING-OFF products in your information system, and also you take into account the waste
+
+ANALYTICS
+History and ANALYTICS with areas of responsibility of all participants in the product quality control process, transparency of responsibility
+
+LOGISTICS
+Transparent LOGISTICS of perishable products, excluding fines, delays and theft, you know the name of the person responsible for the losses!
