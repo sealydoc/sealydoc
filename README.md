@@ -37,7 +37,7 @@
 
 ---
 
-<h2>What do we offer?</h2>
+<h3>What do we offer?</h3>
 <h3>What can we oppose the sanctions?</h3>
 
 <h5>CERTIFICATE</h5><p>Printing a product quality data CERTIFICATE exactly in accordance with international and local requirements</p>
