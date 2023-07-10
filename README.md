@@ -38,21 +38,21 @@
 ---
 
 <h2>What do we offer?</h2>
-<h2>What can we oppose the sanctions?</h2>
+<h3>What can we oppose the sanctions?</h3>
 
 <h5>CERTIFICATE</h5><p>Printing a product quality data CERTIFICATE exactly in accordance with international and local requirements</p>
 
-COMMODITY
-Simplify the process of entering COMMODITY items by simply uploading an excel file
+<h5>COMMODITY</h5>
+<p>Simplify the process of entering COMMODITY items by simply uploading an excel file<p>
 
-RESPONSIBILITY
-Automate the timely notification of necessary food actions to all RESPONSIBLE parties
+<h5>RESPONSIBILITY</h5>
+<p>Automate the timely notification of necessary food actions to all RESPONSIBLE parties<p>
 
-WRITING-OFF
-Simplify the process of WRITING-OFF products in your information system, and also you take into account the waste
+<h5>WRITING-OFF</h5>
+<p>Simplify the process of WRITING-OFF products in your information system, and also you take into account the waste<p>
 
-ANALYTICS
-History and ANALYTICS with areas of responsibility of all participants in the product quality control process, transparency of responsibility
+<h5>ANALYTICS</h5>
+<p>History and ANALYTICS with areas of responsibility of all participants in the product quality control process, transparency of responsibility<p>
 
-LOGISTICS
-Transparent LOGISTICS of perishable products, excluding fines, delays and theft, you know the name of the person responsible for the losses!
+<h5>LOGISTICS</h5>
+<p>Transparent LOGISTICS of perishable products, excluding fines, delays and theft, you know the name of the person responsible for the losses!<p>
