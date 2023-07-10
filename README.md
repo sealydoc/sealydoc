@@ -16,7 +16,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h2>
   <div align="center">
-    <p>🇮🇹 Italiano:</p>
+    <p><b>Italiano:</b></p>
   <img src="https://github.com/Bentax/sealydoc/blob/master/Screenshot_6.png" />
 </div>
   
