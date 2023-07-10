@@ -11,10 +11,10 @@
   </a>
 </div>
   <img src="https://komarev.com/ghpvc/?username=sealydoc&style=flat-square&color=blue" alt=""/>
-  <h1>Anti-sanction measures service for the food industry</h1>
-  <h2>The service was created so that you, being engaged and working in all sectors related to the food industry, can not worry about sanctions
+  <h1>Anti-sanction measures service for the food industry & HoReCa</h1>
+  <h3>The service was created so that you, being engaged and working in all sectors related to the food industry, can not worry about sanctions
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h2>
+  </h3>
   <div align="center">
     <p><b>Italiano:</b></p>
   <img src="https://github.com/Bentax/sealydoc/blob/master/Screenshot_6.png" />
