@@ -40,8 +40,7 @@
 <h2>What do we offer?</h2>
 <h2>What can we oppose the sanctions?</h2>
 
-<h2>CERTIFICATE</h2>
-<p>Printing a product quality data CERTIFICATE exactly in accordance with international and local requirements</p>
+<h5>CERTIFICATE</h5><p>Printing a product quality data CERTIFICATE exactly in accordance with international and local requirements</p>
 
 COMMODITY
 Simplify the process of entering COMMODITY items by simply uploading an excel file
