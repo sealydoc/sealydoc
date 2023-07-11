@@ -22,6 +22,7 @@
   <div align="center">
     <p><b>Canada:</b></p>
   <img src="https://github.com/Bentax/sealydoc/blob/master/canada1.png" />
+  <img src="https://github.com/Bentax/sealydoc/blob/master/canada2.png" />
 </div>
 </div>
 
