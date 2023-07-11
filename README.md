@@ -19,7 +19,10 @@
     <p><b>Italiano:</b></p>
   <img src="https://github.com/Bentax/sealydoc/blob/master/Screenshot_6.png" />
 </div>
-  
+  <div align="center">
+    <p><b>Canada:</b></p>
+  <img src="https://github.com/Bentax/sealydoc/blob/master/canada1.png" />
+</div>
 </div>
 
 ---
