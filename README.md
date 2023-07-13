@@ -24,13 +24,9 @@
   <img src="https://github.com/Bentax/sealydoc/blob/master/canada1.png" />
   <img src="https://github.com/Bentax/sealydoc/blob/master/canada2.png" />
 </div>
-  <div align="center">
-    <p><b>Deutschland:</b></p>
-  <img src="https://github.com/Bentax/sealydoc/blob/master/de.png" />
-</div>
 </div>
 
-[![De](https://github.com/Bentax/sealydoc/blob/master/de.png)](https://lebensmittel-info.eu/verstoss.htm#:~:text=Die%20Gerichte%20k%C3%B6nnen%20bei%20festgestellten,bis%20zu%20f%C3%BCnf%20Jahren%20verh%C3%A4ngen)
+[![Deutschland](https://github.com/Bentax/sealydoc/blob/master/de.png)](https://lebensmittel-info.eu/verstoss.htm#:~:text=Die%20Gerichte%20k%C3%B6nnen%20bei%20festgestellten,bis%20zu%20f%C3%BCnf%20Jahren%20verh%C3%A4ngen)
 ---
 
 ### :fire: Stats :
