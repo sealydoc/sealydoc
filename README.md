@@ -24,6 +24,10 @@
   <img src="https://github.com/Bentax/sealydoc/blob/master/canada1.png" />
   <img src="https://github.com/Bentax/sealydoc/blob/master/canada2.png" />
 </div>
+  <div align="center">
+    <p><b>Deutschland:</b></p>
+  <img src="https://github.com/Bentax/sealydoc/blob/master/de.png" />
+</div>
 </div>
 
 ---
