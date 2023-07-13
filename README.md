@@ -30,6 +30,7 @@
 </div>
 </div>
 
+[![De](https://github.com/Bentax/sealydoc/blob/master/de.png)](your-linkedin-url)
 ---
 
 ### :fire: Stats :
