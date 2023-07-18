@@ -21,17 +21,17 @@
 </div>
 </div>
 
-### Canada
+### Canada:
 
 [![Canada](https://github.com/Bentax/sealydoc/blob/master/canada1.png)](https://acclabel.com/en/what-is-your-budget-for-food-labelling-errors/)
 
-### Deutschland
+### Deutschland:
 
 [![Deutschland](https://github.com/Bentax/sealydoc/blob/master/de.png)](https://lebensmittel-info.eu/verstoss.htm#:~:text=Die%20Gerichte%20k%C3%B6nnen%20bei%20festgestellten,bis%20zu%20f%C3%BCnf%20Jahren%20verh%C3%A4ngen)
 
-### France
+### France:
 
-[![France](https://github.com/Bentax/sealydoc/blob/master/france.png)](https://lebensmittel-info.eu/verstoss.htm#:~:text=Die%20Gerichte%20k%C3%B6nnen%20bei%20festgestellten,bis%20zu%20f%C3%BCnf%20Jahren%20verh%C3%A4ngen)
+[![France](https://github.com/Bentax/sealydoc/blob/master/france.png)](https://www.droit-spav.fr/ssa_sanctions_penales.wH.htm)
 
 ---
 
