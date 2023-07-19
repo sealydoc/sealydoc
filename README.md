@@ -25,7 +25,7 @@
 ---
 
 ### :writing_hand: Blog Posts :
-[![BG](https://img.shields.io/badge/Ether-js-blue)](https://jocular-pavlova-2f6fc6.netlify.app) Exploring blockchain.
+[![BG](https://img.shields.io/badge/BG-EU-blue)](https://jocular-pavlova-2f6fc6.netlify.app) РЕГЛАМЕНТ (ЕС) № 1169/2011 НА ЕВРОПЕЙСКИЯ ПАРЛАМЕНТ И НА СЪВЕТА.
 
 ---
 
