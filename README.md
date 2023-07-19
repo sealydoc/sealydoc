@@ -25,7 +25,7 @@
 ---
 
 ### :writing_hand: Blog Posts :
-[![BG](https://img.shields.io/badge/BG-EU-blue)](https://jocular-pavlova-2f6fc6.netlify.app) РЕГЛАМЕНТ (ЕС) № 1169/2011 НА ЕВРОПЕЙСКИЯ ПАРЛАМЕНТ И НА СЪВЕТА.
+[![BG](https://img.shields.io/badge/EU-BG-blue)](https://eur-lex.europa.eu/legal-content/BG/TXT/HTML/?uri=CELEX:02011R1169-20180101) РЕГЛАМЕНТ (ЕС) № 1169/2011 НА ЕВРОПЕЙСКИЯ ПАРЛАМЕНТ И НА СЪВЕТА.
 
 ---
 
