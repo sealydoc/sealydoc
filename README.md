@@ -29,9 +29,7 @@
 ---
 
 ### :writing_hand: Blog Posts :
-<!-- BLOG-POST-LIST:START -->
-
-<!-- BLOG-POST-LIST:END -->
+[![BG](https://img.shields.io/badge/Ether-js-blue)](https://jocular-pavlova-2f6fc6.netlify.app) Exploring blockchain.
 
 ---
 
