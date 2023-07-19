@@ -21,20 +21,6 @@
 </div>
 </div>
 
-### Canada:
-
-[![Canada](https://github.com/Bentax/sealydoc/blob/master/canada1.png)](https://acclabel.com/en/what-is-your-budget-for-food-labelling-errors/)
-
-### Deutschland:
-
-[![Deutschland](https://github.com/Bentax/sealydoc/blob/master/de.png)](https://lebensmittel-info.eu/verstoss.htm#:~:text=Die%20Gerichte%20k%C3%B6nnen%20bei%20festgestellten,bis%20zu%20f%C3%BCnf%20Jahren%20verh%C3%A4ngen)
-
-### France:
-
-[![France](https://github.com/Bentax/sealydoc/blob/master/france.png)](https://www.droit-spav.fr/ssa_sanctions_penales.wH.htm)
-
----
-
 ### :fire: Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sealydoc&theme=dark&background=000000)](https://git.io/streak-stats)
 
@@ -68,3 +54,19 @@
 
 <h5>LOGISTICS</h5>
 <p>Transparent LOGISTICS of perishable products, excluding fines, delays and theft, you know the name of the person responsible for the losses!<p>
+
+---
+
+### Canada:
+
+[![Canada](https://github.com/Bentax/sealydoc/blob/master/canada1.png)](https://acclabel.com/en/what-is-your-budget-for-food-labelling-errors/)
+
+### Deutschland:
+
+[![Deutschland](https://github.com/Bentax/sealydoc/blob/master/de.png)](https://lebensmittel-info.eu/verstoss.htm#:~:text=Die%20Gerichte%20k%C3%B6nnen%20bei%20festgestellten,bis%20zu%20f%C3%BCnf%20Jahren%20verh%C3%A4ngen)
+
+### France:
+
+[![France](https://github.com/Bentax/sealydoc/blob/master/france.png)](https://www.droit-spav.fr/ssa_sanctions_penales.wH.htm)
+
+---
