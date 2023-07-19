@@ -9,9 +9,7 @@
   <a href="https://twitter.com/SealyDoc">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-    <img src="https://komarev.com/ghpvc/?username=sealydoc&style=flat-square&color=blue" alt=""/>
 </div>
-  <img src="https://komarev.com/ghpvc/?username=sealydoc&style=flat-square&color=blue" alt=""/>
   <h1>Anti-sanction measures service for the food industry & HoReCa</h1>
   <h3>The service was created so that you, being engaged and working in all sectors related to the food industry, can not worry about sanctions
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
