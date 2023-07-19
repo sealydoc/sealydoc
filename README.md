@@ -15,10 +15,6 @@
   <h3>The service was created so that you, being engaged and working in all sectors related to the food industry, can not worry about sanctions
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h3>
-  <div align="center">
-    <p><b>Italiano:</b></p>
-  <img src="https://github.com/Bentax/sealydoc/blob/master/Screenshot_6.png" />
-</div>
 </div>
 
 ### :fire: Stats :
@@ -54,6 +50,10 @@
 <p>Transparent LOGISTICS of perishable products, excluding fines, delays and theft, you know the name of the person responsible for the losses!<p>
 
 ---
+<div align="center">
+    <p><b>Italiano:</b></p>
+  <img src="https://github.com/Bentax/sealydoc/blob/master/Screenshot_6.png" />
+</div>
 
 ### Canada:
 
