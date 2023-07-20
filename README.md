@@ -27,11 +27,7 @@
 
 ### :writing_hand: REGULATION (EU) No 1169/2011 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on the provision of food information to consumers:
 
-[![BG](https://img.shields.io/badge/EU-BG-blue)](https://eur-lex.europa.eu/legal-content/BG/TXT/HTML/?uri=CELEX:02011R1169-20180101) РЕГЛАМЕНТ (ЕС) № 1169/2011 НА ЕВРОПЕЙСКИЯ ПАРЛАМЕНТ И НА СЪВЕТА.
-
-[![ES](https://img.shields.io/badge/EU-ES-blue)](https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:02011R1169-20180101) REGLAMENTO (UE) No 1169/2011 DEL PARLAMENTO EUROPEO Y DEL CONSEJO.
-
-[![CS](https://img.shields.io/badge/EU-CS-blue)](https://eur-lex.europa.eu/legal-content/CS/TXT/HTML/?uri=CELEX:02011R1169-20180101) NAŘÍZENÍ EVROPSKÉHO PARLAMENTU A RADY (EU) č. 1169/2011.
+[![BG](https://img.shields.io/badge/EU-REGULATION-blue)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02011R1169-20180101)
 
 ---
 
