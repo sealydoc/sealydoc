@@ -30,7 +30,7 @@
 
 [![ES](https://img.shields.io/badge/EU-ES-blue)](https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:02011R1169-20180101) REGLAMENTO (UE) No 1169/2011 DEL PARLAMENTO EUROPEO Y DEL CONSEJO.
 
-[![CS](https://img.shields.io/badge/EU-CS-blue)](https://eur-lex.europa.eu/legal-content/CS/TXT/HTML/?uri=CELEX:02011R1169-20180101) NAŘÍZENÍ EVROPSKÉHO PARLAMENTU A RADY (EU) č. 1169/2011.
+[![CS](https://img.shields.io/badge/EU-CS-blue)]() NAŘÍZENÍ EVROPSKÉHO PARLAMENTU A RADY (EU) č. 1169/2011.
 
 ---
 
